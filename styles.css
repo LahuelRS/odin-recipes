@@ -24,4 +24,30 @@ ul, ol {
     li {
         display: inline-block;
         }
+}   
+
+.description{
+    align-content: center;
+    background-color: #e9b878b0;
+    border-color:black;
+    border-style: outset;
+}
+
+.links{
+
+    background-color:rgba(206, 127, 23, 0.664);
+    border-style: outset;
+    border-color:black;   
+}
+
+.ingredients {
+    background-color:rgba(206, 127, 23, 0.664);
+    border-style:outset;
+    border-color:black;   
+}
+
+.steps{
+    background-color:rgba(126, 77, 13, 0.664);
+    border-style: outset;
+    border-color: black;
 }
